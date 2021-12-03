@@ -1,6 +1,6 @@
 ## Hello ! 👋
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47iso2ac270zfqmh9vmm7azrfk9o8tkm5i8zbr0vlb&rid=giphy.gif&ct=g" width="420" height="320" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47iso2ac270zfqmh9vmm7azrfk9o8tkm5i8zbr0vlb&rid=giphy.gif&ct=g" width="320" height="240" />
 
 ### Qui suis-je ?
 - Je m'appelle Karim GHARBI et je suis Développeur Full-Stack JavaScript.
