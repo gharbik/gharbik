@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47iso2ac270zfqmh9vmm7azrfk9o8tkm5i8zbr0vlb&rid=giphy.gif&ct=g" width="320" height="240" />
 
 ### Qui suis-je ?
-- Je m'appelle Karim GHARBI et je suis Développeur Full-Stack JavaScript.
+- Je m'appelle Karim GHARBI et je suis Développeur Front.
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
